@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<omexManifest xmlns="http://identifiers.org/combine.specifications/omex-manifest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://identifiers.org/combine.specifications/omex-manifest combine.xsd ">
+    <content format="http://identifiers.org/combine.specifications/omex-manifest" location="./manifest.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sbml" location="./00227-sbml-l3v1.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sbml" location="./00227-sbml-l2v1.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sbml" location="./00227-sbml-l2v4.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sbml" location="./00227-sbml-l2v3.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sbml" location="./00227-sbml-l2v2.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sedml" location="./00227-sbml-l2v3-sedml.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sedml" location="./00227-sbml-l2v1-sedml.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sedml" location="./00227-sbml-l2v2-sedml.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sedml" location="./00227-sbml-l3v1-sedml.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sedml" location="./00227-sbml-l2v4-sedml.xml"/>
+</omexManifest>
