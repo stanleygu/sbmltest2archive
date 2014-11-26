@@ -3,12 +3,12 @@
     <content format="http://identifiers.org/combine.specifications/omex-manifest" location="./manifest.xml"/>
     <content format="http://identifiers.org/combine.specifications/sbml" location="./00998-sbml-l2v1.xml"/>
     <content format="http://identifiers.org/combine.specifications/sbml" location="./00998-sbml-l2v2.xml"/>
-    <content format="http://identifiers.org/combine.specifications/sbml" location="./00998-sbml-l3v1.xml"/>
     <content format="http://identifiers.org/combine.specifications/sbml" location="./00998-sbml-l2v3.xml"/>
     <content format="http://identifiers.org/combine.specifications/sbml" location="./00998-sbml-l2v4.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sbml" location="./00998-sbml-l3v1.xml"/>
     <content format="http://identifiers.org/combine.specifications/sedml" location="./00998-sbml-l2v1-sedml.xml"/>
     <content format="http://identifiers.org/combine.specifications/sedml" location="./00998-sbml-l2v2-sedml.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sedml" location="./00998-sbml-l2v3-sedml.xml"/>
     <content format="http://identifiers.org/combine.specifications/sedml" location="./00998-sbml-l2v4-sedml.xml"/>
     <content format="http://identifiers.org/combine.specifications/sedml" location="./00998-sbml-l3v1-sedml.xml"/>
-    <content format="http://identifiers.org/combine.specifications/sedml" location="./00998-sbml-l2v3-sedml.xml"/>
 </omexManifest>

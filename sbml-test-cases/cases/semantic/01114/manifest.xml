@@ -7,6 +7,6 @@
     <content format="http://identifiers.org/combine.specifications/sbml" location="./01114-sbml-l3v1.xml"/>
     <content format="http://identifiers.org/combine.specifications/sedml" location="./01114-sbml-l2v2-sedml.xml"/>
     <content format="http://identifiers.org/combine.specifications/sedml" location="./01114-sbml-l2v3-sedml.xml"/>
-    <content format="http://identifiers.org/combine.specifications/sedml" location="./01114-sbml-l3v1-sedml.xml"/>
     <content format="http://identifiers.org/combine.specifications/sedml" location="./01114-sbml-l2v4-sedml.xml"/>
+    <content format="http://identifiers.org/combine.specifications/sedml" location="./01114-sbml-l3v1-sedml.xml"/>
 </omexManifest>
